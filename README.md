@@ -1,5 +1,5 @@
 # Loan Approval Prediction Classification 
-![image](https://github.com/SonawaneMadhuri/Loan-Approval-Prediction-Model/blob/7f75dfe37cff63a4263b72cca18e5694fe4ae303/LoanPrediction.jpg)
+![image](https://github.com/SonawaneMadhuri/Loan-Approval-Prediction-Model/blob/a3a59b6850d7ae3bc8a0f6ecf4478ee7f97247db/loanPrediction%20img.jpg)
 
 This project is a comprehensive Loan Approval Prediction System built using machine learning techniques. 
 The system predicts whether a loan application will be approved or rejected based on applicant details. Below are the steps undertaken to develop the model and deploy it as a user-friendly application.
