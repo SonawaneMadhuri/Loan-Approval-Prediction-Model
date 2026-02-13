@@ -154,7 +154,7 @@ Its superior performance and scalability, XGBoost was the ideal choice for deplo
 ![image](https://github.com/SonawaneMadhuri/Loan-Approval-Prediction-Model/blob/27997a3888101c376b6313a0e23f1e4c18555ccf/visual%20insights%20images/Screenshot%202026-02-13%20105418.png)
 
 ## Class Balanced Using SMOTE
-![image]() 
+![image](https://github.com/SonawaneMadhuri/Loan-Approval-Prediction-Model/blob/0dd3d8c4c371dbde6a22a093dd7f0a5a76f3d47c/visual%20insights%20images/Screenshot%202026-02-13%20105436.png) 
 
 ## Feature Importance
 ![image](https://github.com/Shaikh-areeb/Loan_Approval_Prediction-Classification/blob/main/visual%20insights%20images/Screenshot%202025-01-18%20000225.png)
